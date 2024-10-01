@@ -81,17 +81,17 @@ Professor of Mechanical Engineering at Korea National University of Transportati
     <tr>
       <td>
         <a href="https://youtu.be/dyTR0QwO0f0" title="Amazing Nature Graphics with WebGL Shaders: Terrain | NatureWorks">
-          <img align="center" src="https://github.com/sangkunine/natureWorks/blob/master/images/demo/windyTerrain.png" width="300" alt-text="NatureWorks">
+          <img align="center" src="https://github.com/sangkunine/NatureWorks/blob/master/images/demo/windyTerrain_Moment.jpg" width="300" alt-text="NatureWorks">
         </a>
       </td>
       <td>
         <a href="https://youtu.be/VMqlCWnPZVg" title="Medical Imaging Software on the Web | 3D Volume Visualization | MedicalWorks">
-          <img align="center" src="https://github.com/sangkunine/medicalWorks/blob/master/images/samples/medicalWorks.jpg" width="300" alt-text="MedicalWorks">
+          <img align="center" src="https://github.com/sangkunine/MedicalWorks/blob/master/images/samples/quadWorkspace.jpg" width="300" alt-text="MedicalWorks">
         </a>
       </td>
       <td>
         <a href="https://youtu.be/J85_ZMJszNM" title="New 3D Model Viewer | ViewWorks">
-          <img align="center" src="https://github.com/sangkunine/viewWorks/blob/master/images/samples/viewWorks.jpg" width="300" alt-text="ViewWorks">
+          <img align="center" src="https://github.com/sangkunine/ViewWorks/blob/master/images/samples/BusterDrone.png" width="300" alt-text="ViewWorks">
         </a>
       </td>
     </tr>
